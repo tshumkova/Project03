@@ -1,0 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: black;
+}
+table{
+	color: white;
+	font-size: 25pt;
+	align-items: center;
+}
+.name{
+	color: white;
+	font-family: Helvetica;
+	font-size: 10pt;
+}
+#nav2{
+	color: red;
+	font-family: Garamond;
+}
+#nav2:hover{
+	color: green;
+}
+#nav:link{
+	color: blue;
+}
+#nav:visited{
+	color: white;
+}
